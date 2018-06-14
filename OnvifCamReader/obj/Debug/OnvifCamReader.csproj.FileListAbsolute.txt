@@ -1,0 +1,6 @@
+C:\Users\igors\Desktop\cam\OnvifCamReader\obj\Debug\OnvifCamReader.csproj.CoreCompileInputs.cache
+C:\Users\igors\Desktop\cam\OnvifCamReader\bin\Debug\OnvifCamReader.exe.config
+C:\Users\igors\Desktop\cam\OnvifCamReader\bin\Debug\OnvifCamReader.exe
+C:\Users\igors\Desktop\cam\OnvifCamReader\bin\Debug\OnvifCamReader.pdb
+C:\Users\igors\Desktop\cam\OnvifCamReader\obj\Debug\OnvifCamReader.exe
+C:\Users\igors\Desktop\cam\OnvifCamReader\obj\Debug\OnvifCamReader.pdb
